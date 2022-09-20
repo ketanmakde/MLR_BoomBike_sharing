@@ -39,7 +39,8 @@ The variables which are significant for predicting the bike rental count is as f
 
 
 ** Equation for best fit line is:**
-   Cnt = 0.2556 + 0.2289 \times yr
+ 
+ Cnt = 0.2556 + 0.2289 \times yr
          - 0.1127 \times  holiday 
          - 0.0189 \times  workingday
          + 0.5703 \times  temp
