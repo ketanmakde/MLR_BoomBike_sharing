@@ -27,9 +27,9 @@ Based on the analysis following conclusions were obtained:
 
 Evaluation Parameters on model:
  - R-squared value = 0.843
- - Adj. R-squared = 0.839.
+ - Adj. R-squared = 0.839
  - Duirng the validation coefficient of determination of the model is obtained as 0.8039 which means the model is 80.39% effenctive. 
- - mean square error is also minimum (0.0965) which indicates best fit of model.
+ - Mean square error is also minimum (0.0965) which indicates best fit of model.
 
 The variables which are significant for predicting the bike rental count is as follows:
  - Weather: Cloudy, snow, temp, hum, windspeed
@@ -40,4 +40,4 @@ The variables which are significant for predicting the bike rental count is as f
 
 **Equation for best fit line is**:
  
- Cnt = 0.2556 + 0.2289 * yr - 0.1127 * holiday - 0.0189 * workingday + 0.5703 * temp - 0.1708 * hum - 0.1935 * windspeed  + 0.0751 * Summer + 0.1267 * Winter - 0.0379 * Jan - 0.0473 * Jul + 0.0937 * Sept - 0.0543 * Cloudy - 0.2385 * Snow.
+ Count = 0.2556 + 0.2289 * yr - 0.1127 * holiday - 0.0189 * workingday + 0.5703 * temp - 0.1708 * hum - 0.1935 * windspeed  + 0.0751 * Summer + 0.1267 * Winter - 0.0379 * Jan - 0.0473 * Jul + 0.0937 * Sept - 0.0543 * Cloudy - 0.2385 * Snow.
